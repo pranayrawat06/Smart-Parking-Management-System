@@ -75,3 +75,10 @@ The data file is rewritten after every park, every exit, and every sort.
 - **Slot counts are fixed.** The 100/100 split is hardcoded in several places, so changing `CAPACITY` alone won't resize the lot.
 - **Two helpers aren't wired up.** `displayAVL()` and `displayCurrentTime()` exist in `ParkingSystem` but have no menu entry.
 - **Time is local system time**, and bills assume the clock doesn't change while a vehicle is parked.
+
+## Contribution
+
+- PRANAY RAWAT: OOP, Doubly Linked List and Merge Sort
+- CHAITANYA RAJ GOYAL: Binary Search Tree, AVL Tree and Integration
+- KRISH BINDAL: Hash Table with Separate Chaining and Circular Queue
+- ABHIJEET TIWARI: Min Heap and Stack
